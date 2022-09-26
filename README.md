@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a C# based Software Developer
+
+Technologies I have knowledge;
+MsSql
+C#
+
 <!--
 **ibrahimkaya2258/ibrahimkaya2258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
